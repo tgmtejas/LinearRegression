@@ -1,2 +1,7 @@
-# LinearRegression
-Linear Regression using Least Square error along with regularization, MLE and MAP
+# Pattern Recognition and Machine Learning
+
+Project1 : Linear Regression using Least Square, MLE and MAP
+
+Project2 : Linear Discriminant Analysis
+
+
